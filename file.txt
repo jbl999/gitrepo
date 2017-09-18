@@ -1,1 +1,2 @@
 this is the file,writing first sence in the file.
+this is the sixth sentence added by the feature branch.
