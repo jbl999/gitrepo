@@ -1,2 +1,8 @@
 this is the file,writing first sence in the file.
+<<<<<<< HEAD
 this is the sixth sentence added by the feature branch.
+=======
+this is the second sentence adding to the file.
+this is the third sentence added by feature branch.
+
+>>>>>>> 17fc60dbfc2f2f1e0f44da3ddb1cac887ce3e417
